@@ -42,4 +42,4 @@
 # 시연 영상
 ### [시연 영상 바로가기][youtubelink]
 
-[youtubelink]: https://www.youtube.com/watch?v=pCJG-2w-MXA "Go youtube"
+[youtubelink]: https://www.youtube.com/watch?v=dniltAhiu-w "Go youtube"
