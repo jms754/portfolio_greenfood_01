@@ -38,3 +38,8 @@
 16. 식단 선택
 17. 관리자 회원 주문 관리
 18. 관리자 식단 C,R,U,D
+
+# 시연 영상
+### [시연 영상 바로가기][youtubelink]
+
+[youtubelink]: https://www.youtube.com/watch?v=pCJG-2w-MXA "Go youtube"
