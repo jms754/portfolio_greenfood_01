@@ -1,5 +1,10 @@
 # portfolio_greenfood
+![localhost_9080_greenfood_](https://user-images.githubusercontent.com/57340601/79753798-76fb6d00-8351-11ea-893a-ed3867ed3aac.png)
+
+
 스프링 프레임 워크 기반으로 개발한 도시락 쇼핑몰 '그린 푸드'입니다.
+
+
 
 # 목적
 바쁜 현대인들을 위하여 균형 잡힌 식단의 도시락을 제공하여  식사 준비 시간을 단축하고 영양 불균형을 해결
